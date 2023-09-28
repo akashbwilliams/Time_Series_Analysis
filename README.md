@@ -1,8 +1,8 @@
-# Time Series Analysis adolescent fertility rates in India over the past 60 years
+# Time Series Analysis of adolescent fertility rates in India over the past 60 years
 The overall requirement of this exercise can be summarized:
 1. Analyse the adolescent fertility rates data of India over time, identify seasonal patterns,
 identify the general trends in the rates and create a time series model
-2. Use a time-series model to forecast the revenue in the near future
+2. Use a time-series model to forecast the rates in the near future
 
 Data used for the analysis in this assignment accounts for the yearly fertility rates in India
 from 1960 – 2019. The annual number of births to women aged 15-19 years per 1,000 women
